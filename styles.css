@@ -1,1 +1,23 @@
 /* Copy and paste your CSS from CodePen into here */
+#main {
+    margin: 0;
+    font-size: 1 rem;
+    
+  }
+  #title {
+    text-align: center;
+    
+  }
+  #image-div
+  
+  #image {
+    height: auto;
+    max-width: 100%;
+  }
+  
+  #img-caption
+  
+  #tribute-info{
+    margin: 20px;
+    
+  }
